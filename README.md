@@ -28,9 +28,9 @@ Afterwards you can just change your directory to Part2 folder and launch the not
 
 ## ✍️ General comments <a name = "general_comments"></a>
 For Part1 the Q1 is provided in two different approaches. The first [query](https://github.com/konschri/ef_assessement/blob/main/Part1/efood_Q1.sql)
-is a unified solution for calculating all three metrics at once. Being somewhat ugly and not easily readable, 
-a second [solution](https://github.com/konschri/ef_assessement/blob/main/Part1/efood_Q1_split.sql)
+is a unified solution for calculating all three metrics at once. Not being so easily readable, 
+a second [solution](https://github.com/konschri/ef_assessement/blob/main/Part1/efood_Q1_split.sql) one
 is available that calculates the metrics piecemeal.
 
 For Part2 besided the code there is also a [presentation](https://github.com/konschri/ef_assessement/blob/main/Part2/E-food%20Insights%20Analyst%20Exercise.pptx) of findings 
-that summarizes the key points extracted by the notebook
+that summarizes the key points extracted by the notebook.
