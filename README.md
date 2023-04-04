@@ -7,7 +7,7 @@
 Perform Analysis on [Orders](https://github.com/konschri/ef_assessement/blob/main/Part2/orders.csv) file.
   
 Part 1 focuses on SQL queries:  
-- To compare "Breakfast" cuisine versus the total based on metrics: Basket, Frequency, %Users that exceed 3 orders
+- To compare "Breakfast" cuisine versus the total based on metrics: **Basket**, **Frequency**, **%Users that exceed 3 orders**
 - To find the percentage of orders that top 10 users of each city contribute to their city  
 
 Part 2 focuses on:  
@@ -20,9 +20,10 @@ Part 3 focuses on:
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 The solution for Part 2 is provided in a jupyter notebook file.
-All you need to do in case you want to replicate the results is to install requirements. This can be done by:
+All you need to do in case you want to replicate the results is to install [requirements](https://github.com/konschri/ef_assessement/blob/main/requirements.txt). This can be done by:  
+```
 pip install -r requirements.txt. 
-
+```
 Afterwards you can just change your directory to Part2 folder and launch the notebook.
 
 ## ✍️ General comments <a name = "general_comments"></a>
