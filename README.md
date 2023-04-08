@@ -22,7 +22,7 @@ Part 3 focuses on:
 The solution for Part 2 is provided in a jupyter notebook file.
 All you need to do in case you want to replicate the results is to install [requirements](https://github.com/konschri/ef_assessement/blob/main/requirements.txt). This can be done by:  
 ```
-pip install -r requirements.txt. 
+pip install -r requirements.txt 
 ```
 Afterwards you can just change your directory to Part2 folder and launch the notebook.
 
